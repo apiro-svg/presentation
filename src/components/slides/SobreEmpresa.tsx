@@ -1,0 +1,1 @@
+export { SobreEmpresa } from '../SobreEmpresa';

@@ -1,0 +1,1 @@
+export { Problema } from '../Problema';
